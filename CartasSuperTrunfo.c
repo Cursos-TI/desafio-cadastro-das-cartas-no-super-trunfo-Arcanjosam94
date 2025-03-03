@@ -13,7 +13,7 @@ int main() {
   char nome_da_cidade[50];
   int populacao;
   float area_em_km2;
-  float PIB;
+  float PIB, DensidadePopulacional, PIBperCapita;
   int numero_de_pontos_turisticos;
     
     // Cadastro das Cartas:
